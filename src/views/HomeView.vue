@@ -58,7 +58,7 @@ the reasonableness of this view.`,
   },
   computed: {
     lines() {
-      return this.contents.split(".");
+      return this.contents.replaceAll("\n", "").split(/(.*?[.!?](?!’))/).filter((e) => {return e});
     }
   }
 };
