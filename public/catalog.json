@@ -1,0 +1,23 @@
+[
+    {
+        "id": "11",
+        "title": "Republic",
+        "author": "Plato",
+        "path": "/books/republic_plato.txt",
+        "cover": "/covers/republic.webp"
+    },
+    {
+        "id": "12",
+        "title": "Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "path": "/books/picture_of_dorian_gray_oscar_wilde.txt",
+        "cover": "/covers/dorian_gray.webp"
+    },
+    {
+        "id": "13",
+        "title": "Alice in Wonderland",
+        "author": "Lewis Carroll",
+        "path": "/books/alice_in_wonderland_lewis.txt",
+        "cover": "/covers/alice.webp"
+    }
+]
